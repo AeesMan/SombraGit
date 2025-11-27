@@ -7,14 +7,14 @@ const Body = () => {
     {
       id: 1,
       name: "Andrii Pielievan",
-      position: "Software engineer",
+      position: "Team Lead",
       photo: "/Andrii.jpg",
     },
     {
       id: 2,
       name: "Hloriia Tsizdyn Balabanova",
       position: "UI/UX Designer",
-      photo: "/Hloriia.jpg",
+      photo: "/Glory.jpg",
     },
     {
       id: 3,
@@ -25,14 +25,14 @@ const Body = () => {
     {
       id: 4,
       name: "Holets Roman",
-      position: "Just a guy",
+      position: "QA Engineer",
       photo: "/Holets.jpg",
     },
     {
       id: 5,
       name: "Hrechko Khrystyna",
-      position: "Team Lead",
-      photo: "/Skarb.jpg",
+      position: "Software Engineer",
+      photo: "/Hrechko.jpg",
     },
 
 
@@ -60,7 +60,7 @@ const styles = {
     flexWrap: "wrap",
   },
   card: {
-    width: "150px",
+    width: "200px",
     padding: "1em",
     borderRadius: "10px",
     backgroundColor: "#fff",
